@@ -172,4 +172,3 @@ We has achieved the following goals:
 ---
 
 <p>&copy; 2023 BoKho</p>
-# BA_delicat
