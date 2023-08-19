@@ -1,4 +1,4 @@
-# [A Development Of Men’s Fashion Ecommerce Website - DÉLICAT](https://github.com/trannhatnguyen2/BI_BoKho)
+# [A Development Of Men’s Fashion Ecommerce Website - DÉLICAT](https://github.com/thientructhai/BA_delicat)
 
 ## Member of group
 
